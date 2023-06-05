@@ -1,2 +1,2 @@
 # Peregrine
-A fine-tuned model Falcon
+A fine-tuned model of Falcon
